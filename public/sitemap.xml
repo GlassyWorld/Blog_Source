@@ -23,6 +23,9 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-03-16T20:04:58+08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/test/</loc>
+    <lastmod>2025-03-16T20:04:58+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/%E6%95%B4%E7%90%86%E8%BF%87%E5%BE%80/</loc>
     <lastmod>2025-03-16T20:04:58+08:00</lastmod>
   </url>
